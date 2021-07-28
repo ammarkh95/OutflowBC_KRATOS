@@ -1,7 +1,7 @@
 # OutflowBC_KRATOS
 Improved Outflow Boundary Conditions for Fluid Dynamics in KRATOS. 
 
-Input block example in ProjectParameters.json for Convective outlet condition:
+## Input block example in ProjectParameters.json for Convective outlet condition:
 
 ```json
 
@@ -19,7 +19,7 @@ Input block example in ProjectParameters.json for Convective outlet condition:
 
 ```
 
-Input block example in ProjectParameters.json for Sponge Layer condition:
+## Input block example in ProjectParameters.json for Sponge Layer condition:
 
 ```json
 {
@@ -41,5 +41,5 @@ Input block example in ProjectParameters.json for Sponge Layer condition:
     }
 }
 ```
-References:
+## References:
 Khallouf, A. (2021). Developments for Improved FEM-Based LES Simulations in Computational Wind Engineering. (Master's Thesis).Technical University of Muncih. 
